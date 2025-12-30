@@ -1,0 +1,43 @@
+# Fichiers de configuration sensibles
+pfc/GestAppart/database.php
+pfc/Gestbg/database.php
+pfc/propriete/database.php
+pfc/MtpOublé/database.php
+pfc/GestUtilisa/database.php
+database_immobilière.sql
+
+# Fichiers d'environnement
+.env
+
+# Logs
+*.log
+logs/
+
+# Cache
+cache/
+tmp/
+
+# Dépendances
+/vendor/
+
+# Fichiers temporaires
+*.tmp
+*.bak
+*.swp
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# IDE / éditeurs
+.vscode/
+.idea/
+*.iml
+
+# Archives
+*.zip
+*.rar
+*.7z
+
+# Uploads (si présents)
+uploads/
